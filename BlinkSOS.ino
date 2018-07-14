@@ -1,5 +1,5 @@
 /*
-  SOS
+  BlinkSOS
   Written by Jeremy Mercer
   214516167
 
